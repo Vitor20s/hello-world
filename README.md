@@ -3,6 +3,6 @@ Its my first repository
 
 Hi humans!
 
-My name is Vitor and I like to learn code
+My name is Vitor and I like to learn code.
 
-If this all...
+If this all... For a while.
